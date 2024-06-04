@@ -1,2 +1,2 @@
 # Projects-Collections
-a collection of course projects 
+a collection of course projects' posters 
