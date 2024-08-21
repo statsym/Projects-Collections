@@ -1,5 +1,5 @@
 # Projects-Collections
-Collections of past course projects' posters or slides
+collections of past course projects' posters or slides
 
 * [Generalized Linear Models](https://github.com/statsym/Projects-Collections/blob/main/glm.pdf) This project
   
